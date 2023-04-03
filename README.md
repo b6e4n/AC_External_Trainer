@@ -10,6 +10,9 @@ This trainer has been madewith CheatEngine and ReClass.NET to find the offsets. 
 
 Open the solution with Visual Studio and build it for x64
 
+Launch the exe
+
+
 ## Use :
 
 Keyboard P : Unlimited Health
